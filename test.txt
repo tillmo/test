@@ -1,3 +1,5 @@
 start of edit 1
 here is some text
+start of edit 2
+end of edit 2
 end of edit 1
