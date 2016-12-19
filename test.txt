@@ -1,0 +1,3 @@
+start of edit 1
+here is some text
+end of edit 1
